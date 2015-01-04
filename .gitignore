@@ -189,3 +189,6 @@ FakesAssemblies/
 *.bat
 *.dni
 *.wspos
+*.dep
+*.ewt
+*.wsdt
