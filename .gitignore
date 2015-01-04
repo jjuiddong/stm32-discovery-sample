@@ -181,3 +181,11 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+
+# IAR system
+*.ewd
+*.ewp
+*.ewt
+*.dep
+*.wsdt
