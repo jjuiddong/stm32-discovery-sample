@@ -184,8 +184,8 @@ FakesAssemblies/
 
 
 # IAR system
-*.ewd
-*.ewp
-*.ewt
-*.dep
-*.wsdt
+*.crun
+*.dbgdt
+*.bat
+*.dni
+*.wspos
