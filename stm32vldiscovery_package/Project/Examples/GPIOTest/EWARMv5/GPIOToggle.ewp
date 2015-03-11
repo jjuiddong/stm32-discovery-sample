@@ -3,7 +3,7 @@
 <project>
   <fileVersion>2</fileVersion>
   <configuration>
-    <name>RCC</name>
+    <name>GPIOToggle</name>
     <toolchain>
       <name>ARM</name>
     </toolchain>
@@ -17,15 +17,15 @@
         <debug>1</debug>
         <option>
           <name>ExePath</name>
-          <state>RCC\Exe</state>
+          <state>GPIOToggle\Exe</state>
         </option>
         <option>
           <name>ObjPath</name>
-          <state>RCC\Obj</state>
+          <state>GPIOToggle\Obj</state>
         </option>
         <option>
           <name>ListPath</name>
-          <state>RCC\List</state>
+          <state>GPIOToggle\List</state>
         </option>
         <option>
           <name>Variant</name>
@@ -973,9 +973,6 @@
     <name>StdPeriph_Driver</name>
     <file>
       <name>$PROJ_DIR$\..\..\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</name>
-    </file>
-    <file>
-      <name>$PROJ_DIR$\..\..\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c</name>
     </file>
     <file>
       <name>$PROJ_DIR$\..\..\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</name>
